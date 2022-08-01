@@ -99,7 +99,7 @@ for i in Year1:
     
     New_models_per_model_per_year.append(df1)
 
-New_models_per_model_per_year
+print(New_models_per_model_per_year)
 
 df1 = df[df['Year']<2000].groupby("Brand")['Year'].count()
 df2 = df[df['Year']>=2000].groupby("Brand")['Year'].count()
