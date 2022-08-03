@@ -2,6 +2,15 @@
 The data set was downloaded from the following https://www.kaggle.com/code/helloworlditsme/datadetectivecarsales/data
 The dataset has synthetic data. We used that data to perform the visualization techniques.
 The dataset consists of the details of car.
+required software:
+VScode
+programming skills:
+python
+required libraries:
+Matplot
+NumPy
+Seaborn
+Pandas
 We used eight attributes to perform the visualization:
 •	Brand: The manufacturer
 •	Price: The cost of the car
